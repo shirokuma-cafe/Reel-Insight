@@ -52,3 +52,10 @@ docker run -p 3000:3000 -p 5173:5173 \
   my-movie-app
 ```
 3. Go to http://localhost:5173/ to check out the app
+
+## Screenshots
+![Home Page](/Screenshots/home.png)
+
+![Search Page](/Screenshots/search.png)
+
+![Movie Detail Page](/Screenshots/detail.png)
